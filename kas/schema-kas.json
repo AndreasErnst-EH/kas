@@ -281,6 +281,9 @@
                 },
                 "no_proxy": {
                     "type": "string"
+                },
+                "SSL_CERT_FILE": {
+                    "type": "string"
                 }
             }
         },
